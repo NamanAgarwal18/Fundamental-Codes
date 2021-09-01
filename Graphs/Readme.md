@@ -1,4 +1,4 @@
-#Graph 
+# Graph 
 
 ### Following algorithms
 1. **DFS** traversal to find if two nodes are connected or not.
