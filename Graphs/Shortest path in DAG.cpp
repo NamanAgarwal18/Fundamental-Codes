@@ -5,6 +5,7 @@ using namespace std;
 /*
 	Conditions -> Only works for directed acyclic graph
 		      Needs to find topological sorting first
+	Benifits   -> Weight can be -ve. 
 */
 
 void print(map<int,int> array[], int size)
