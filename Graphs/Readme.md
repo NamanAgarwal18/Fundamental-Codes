@@ -12,3 +12,4 @@
 9. **Dijkstra's Algorithm** to find the minimum spanning tree. [Click Here](https://github.com/NamanAgarwal18/Fundamental-Codes/blob/main/Graphs/Dijkstra%20Algorithm.cpp)
 10. **Bellman Ford** to find minimum distance from the start node to all nodes including negative weighted edges. [Click Here](https://github.com/NamanAgarwal18/Fundamental-Codes/blob/main/Graphs/Bellman%20Ford.cpp)
 11. Optimized **Bellman Ford** -> **Shortest Path Faster Algorithm (SPFA)**  [Click Here](https://github.com/NamanAgarwal18/Fundamental-Codes/blob/main/Graphs/Bellman%20Ford.cpp)
+12. **Floyd Warshall** to find All-pairs shortest path. [Click Here](https://github.com/NamanAgarwal18/Fundamental-Codes/blob/main/Graphs/Floyd%20Warshall.cpp)
